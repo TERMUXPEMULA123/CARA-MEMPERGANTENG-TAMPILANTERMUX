@@ -1,1 +1,10 @@
 # CARA-MEMPERGANTENG-TAMPILANTERMUX
+
+Cara menginstall
+pkg install git
+pkg install python2
+git clone https://github.com/TERMUXPEMULA123/CARA-MEMPERGANTENG-TAMPILANTERMUX
+cd CARA-MEMPERGANTENG-TAMPILANTERMUX
+python2 CARA-MEMPERGANTENG-TAMPILANTERMUX.py
+
+Sekian terimakasih
